@@ -1,0 +1,13 @@
+.productInfo__rate {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    margin: 20px 0 46px 0;
+}
+
+.rate__stars {
+    padding: 0 5px
+}

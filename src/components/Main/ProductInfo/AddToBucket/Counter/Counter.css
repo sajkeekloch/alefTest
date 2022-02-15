@@ -1,0 +1,40 @@
+.counter {
+    display: flex;
+    flex-direction: row;
+    width: 145px;
+    height: 45px;
+    justify-content: space-between;
+    background: #F2F2F2;
+}
+
+.counter__item {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter__plus {
+    cursor: pointer;
+}
+
+.counter__plus:active {
+    background-color: #333;
+}
+
+
+.counter__minus {
+    cursor: pointer;
+}
+
+
+.counter__minus:active {
+    background-color: #333;
+}
+
+@media screen and (max-width: 768px){
+    .counter {
+        width: 60%;
+    }
+}
+

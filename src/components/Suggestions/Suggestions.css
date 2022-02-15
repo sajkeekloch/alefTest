@@ -1,0 +1,26 @@
+.suggestions {
+    margin-top: 2vw;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+}
+
+.suggestions__watchAll {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    text-decoration-line: underline;
+    color: #333333;
+    margin-bottom: 35px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px){
+    .suggestions {
+        margin-top: 5vw;
+    }
+}

@@ -1,0 +1,39 @@
+.prodictPic__miniatures {
+    margin-top: 26px;
+    margin-left: 24px;
+    position: absolute;
+    top: 50px;
+}
+
+.minuatures__miniature {
+    width: 5vw;
+    margin-bottom: 7px;
+    opacity: .5;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.minuatures__miniature:hover {
+    transition: .2s;
+    transform: scale(1.1);
+    opacity: .9;
+}
+
+.choosen {
+    opacity: 1;
+}
+
+.minuature__image {
+    width: 100%;
+}
+
+@media screen and (max-width: 768px){
+
+    .prodictPic__miniatures {
+        margin-top: 50px;
+    }
+
+    .minuatures__miniature {
+        width: 10vw;
+    }
+}

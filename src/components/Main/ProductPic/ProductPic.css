@@ -1,0 +1,14 @@
+.productPic {
+    width: 48%;
+}
+
+.productPic_image {
+    width: 100%;
+}
+
+
+@media screen and (max-width: 768px){
+    .productPic {
+        width: 100%
+    }
+}

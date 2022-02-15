@@ -1,0 +1,31 @@
+.productSize {
+    width: 315px;
+    height: 44px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid #333333;
+    margin-bottom: 10px;
+}
+
+.customSelect {
+    width: 315px;
+    height: 44px;
+    border: 1px solid #333333;
+}
+
+.customSelect > div {
+    border: none;
+}
+
+.customSelect > div > div:nth-child(2) > div {
+    border: transparent;
+    color: #333;
+}
+
+.customSelect > div > div:nth-child(2) > span {
+    display: none;
+}
+
+.customSelect:focus {
+    border-color: red;
+}
