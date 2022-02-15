@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/alefTest/static/css/main.6cb22560.css",
+    "main.js": "/alefTest/static/js/main.ea8777b3.js",
+    "static/media/mainImage1.png": "/alefTest/static/media/mainImage1.5056a4f17faf48590791.png",
+    "static/media/galleryImage1.png": "/alefTest/static/media/galleryImage1.17e40baab57911a60775.png",
+    "static/media/mainImage2.png": "/alefTest/static/media/mainImage2.85369ca27139af2899da.png",
+    "static/media/mainImage3.png": "/alefTest/static/media/mainImage3.1e0516262d5385709db6.png",
+    "static/media/galleryImage5.png": "/alefTest/static/media/galleryImage5.1c20cd7b9d70b238ff1d.png",
+    "static/media/galleryImage3.png": "/alefTest/static/media/galleryImage3.1a8dd716de5e532eb3a3.png",
+    "static/media/galleryImage4.png": "/alefTest/static/media/galleryImage4.2f733e45a215a8235614.png",
+    "static/media/galleryImage2.png": "/alefTest/static/media/galleryImage2.18f46ff3e4e042303045.png",
+    "static/media/OpenSans-Regular.ttf": "/alefTest/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/alefTest/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "static/media/OpenSans-Light.ttf": "/alefTest/static/media/OpenSans-Light.846a12caf01a940847a7.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/alefTest/static/media/OpenSans-SemiBold.d7261533b9a545ddc769.ttf",
+    "static/media/mainImage4.png": "/alefTest/static/media/mainImage4.f574928d853c4655b5ad.png",
+    "static/media/mainImage5.png": "/alefTest/static/media/mainImage5.f14ad0a4c3738fa3f670.png",
+    "static/media/logo.svg": "/alefTest/static/media/logo.ed98975477b198729dd3cb2e88a0e436.svg",
+    "static/media/galleryLikes.svg": "/alefTest/static/media/galleryLikes.8feb2363b248809cca71d6652c7796fe.svg",
+    "index.html": "/alefTest/index.html",
+    "static/media/t-shirt.svg": "/alefTest/static/media/t-shirt.6f5cb7a84edbe276c66659bafa21175c.svg",
+    "static/media/liked.svg": "/alefTest/static/media/liked.174dd6547f3e093452a73b2abf387b2b.svg",
+    "static/media/galleryCart.svg": "/alefTest/static/media/galleryCart.ada6ba5668c928136753785f474c2511.svg",
+    "static/media/bucket.svg": "/alefTest/static/media/bucket.635d88e3b4e8b9abb83e806cca9f8ad8.svg",
+    "static/media/heart.svg": "/alefTest/static/media/heart.2e76bd3a733470622fe3011ab0b7802c.svg",
+    "static/media/unliked.svg": "/alefTest/static/media/unliked.0e7f67bb1eaafc21bad79d861b6b6f3a.svg",
+    "static/media/rateStarEmpty.svg": "/alefTest/static/media/rateStarEmpty.937f234e5c88ef9846c40b2ef4a9b8d9.svg",
+    "static/media/frame.svg": "/alefTest/static/media/frame.6df3d1e73c6675cfec7ec6ff03bf33f1.svg",
+    "static/media/person.svg": "/alefTest/static/media/person.fd24247e6e8ed6edd8361d7fddc22a8f.svg",
+    "static/media/closeCross.svg": "/alefTest/static/media/closeCross.809c16d3ba26d70068056b1061b4d409.svg",
+    "static/media/burger.svg": "/alefTest/static/media/burger.7a034555b14ef8277974087e0ec2a26f.svg",
+    "static/media/card.svg": "/alefTest/static/media/card.9bfd8cdcdbfcef2fc06a46276c75aae7.svg",
+    "static/media/rateStarFilled.svg": "/alefTest/static/media/rateStarFilled.afcf480498f58548ebd709e7350ebb88.svg",
+    "static/media/clock.svg": "/alefTest/static/media/clock.d8d724a816afabdf3d986c86be11ec20.svg",
+    "main.6cb22560.css.map": "/alefTest/static/css/main.6cb22560.css.map",
+    "main.ea8777b3.js.map": "/alefTest/static/js/main.ea8777b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb22560.css",
+    "static/js/main.ea8777b3.js"
+  ]
+}
